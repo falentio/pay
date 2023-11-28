@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "allowJs": true,
+    "baseUrl": "./src",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "lib": [
+      "ESNext",
+      "DOM"
+    ],
+    "inlineSourceMap": true,
+    "target": "ESNext",
+    "moduleResolution": "Bundler"
+  },
+  "exclude": [
+    "dist"
+  ]
+}
